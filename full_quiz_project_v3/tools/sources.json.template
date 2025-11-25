@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://psc.wb.gov.in/previous_year_question_paper.jsp",
+    "type": "html",
+    "selector": "",
+    "section_id": "wbcs-2025",
+    "subtopic_id": "general"
+  },
+  {
+    "url": "https://aptiplus.in/wbcs-previous-year-paper/",
+    "type": "html",
+    "selector": "",
+    "section_id": "wbcs-2025",
+    "subtopic_id": "general"
+  },
+  {
+    "url": "https://www.adda247.com/exams/west-bengal/wbcs-previous-year-question-papers/",
+    "type": "html",
+    "selector": "",
+    "section_id": "wbcs-2025",
+    "subtopic_id": "general"
+  }
+]

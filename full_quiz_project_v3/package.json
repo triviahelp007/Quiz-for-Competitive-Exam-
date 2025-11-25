@@ -1,0 +1,27 @@
+{
+  "name": "web-quiz-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "scrape": "node tools/scrape_html.js",
+    "normalize": "node tools/normalize_and_export.js",
+    "download-adda": "node tools/download_papers_adda247.js",
+    "pdf-extract": "python3 tools/extract_pdf.py tools/pdfs"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.0.0",
+    "csv-parse": "^5.0.0",
+    "fuzzball": "^1.0.0"
+  }
+}
