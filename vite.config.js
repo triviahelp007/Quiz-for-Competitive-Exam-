@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/Quiz-for-Competitive-Exam-/',
+  base: '/Quiz-for-Competitive-Exam/',
   plugins: [react()]
 })
